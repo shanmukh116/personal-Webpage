@@ -1,2 +1,2 @@
-# portfilio
+# Personal Webpage
 This is my own portfilio developed by using HTML,CSS,javascript,Bootstramp.
